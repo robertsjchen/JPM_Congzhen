@@ -1,0 +1,287 @@
+
+
+.calibre {
+    -webkit-margin-after: 0.2em;
+    -webkit-margin-before: 0.2em;
+    -webkit-margin-end: 0.8em;
+    -webkit-margin-start: 1.5em;
+    -webkit-writing-mode: vertical-rl;
+    
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    writing-mode: vertical-rl;
+    margin: 0 5pt
+    }
+    
+.calibre1 {
+    display: block
+    }
+    
+.calibre2 {    
+    display: block;
+    font-size: 1em;
+    line-height: 150%;
+    text-indent: 0;
+    margin: 1em 0
+    }
+    
+.calibre3 {
+    height: auto;
+    line-height: 1.4;
+    width: 100%
+    }
+    
+.calibre4 {
+    display: block;
+    font-size: 1em;
+    font-weight: lighter;
+    margin: 1em 0 0
+    }
+    
+.calibre5 {
+    text-decoration: none
+    }
+    
+.calibre6 {
+    display: block;
+    font-size: 1em;
+    line-height: 150%;
+    text-indent: 2em;
+    /*margin: 1em 0*/
+    margin: 0;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    }
+    
+.calibre7 {
+    -webkit-margin-after: 0.2em;
+    -webkit-margin-before: 0.2em;
+    -webkit-margin-end: 0.8em;
+    -webkit-margin-start: 1.5em;
+    -webkit-writing-mode: vertical-rl;
+    display: block;
+    font-size: 1em;
+    line-height: 1.4;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    writing-mode: vertical-rl;
+    margin: 0 5pt
+    }
+.calibre8 {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.calibre9 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre10 {
+    display: list-item
+    }
+.duokan-image-single {
+    clear: both;
+    display: block;
+    height: auto;
+    line-height: 1.4;
+    text-align: center;
+    text-indent: 0;
+    width: 100%;
+    margin: 0 0 0.5em 0.5em
+    }
+.font {
+    height: auto;
+    vertical-align: bottom;
+    width: 1em;
+    padding: 0;
+    margin: 0 0 0 0.4em
+    }
+.h3a {
+    font-size: 1em;
+    font-style: normal;
+    font-weight: lighter;
+    line-height: 1.4
+    }
+.h3b {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: lighter;
+    line-height: 1.4;
+    text-align: center;
+    margin: 1em 0.2em 2em
+    }
+.kuo {
+    -webkit-writing-mode: horizontal-tb;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    writing-mode: horizontal-tb
+    }
+.line {
+    color: gray;
+    display: block;
+    height: 2px;
+    line-height: 1.4;
+    border-top: #A2906A dotted 1px;
+    border-right: #A2906A dotted 0;
+    border-bottom: #A2906A dotted 0;
+    border-left: #A2906A dotted 0;
+    margin: 0.5em auto
+    }
+    
+.ord {
+    font-family: "st";
+    background-color: #000;
+    color: #fff;
+    font-weight: 900;
+    letter-spacing: 0.05em;
+    width: 1em;
+    border: #000 solid 1px;
+    padding: 0;
+    margin: 0 0 0.3em
+    }
+    
+.ords {
+    font-family: "st";
+    background-color: #fff;
+    color: #000;
+    font-weight: 900;
+    letter-spacing: 0.05em;
+    width: 1em;
+    padding: 0;
+    margin: 0
+    }
+    
+.oval {
+    background: repeat;
+    display: block;
+    line-height: 1.4;
+    border: #FE1602 solid 1px;
+    padding: 5px
+    }
+    
+.ovaltitle {
+    color: #6A3510;
+    display: block;
+    font-family: "ht";
+    font-size: 1.125em;
+    font-weight: 900;
+    line-height: 1.2;
+    padding-bottom: 14px;
+    padding-top: 15px;
+    text-align: center;
+    margin: 0.83em 0
+    }
+    
+.ovaltxt {
+    color: #6A3550;
+    display: block;
+    font-family: "MYing Hei T", san-serif;
+    font-size: 0.75em;
+    line-height: 150%;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 1em 0
+    }
+    
+.poem {
+    display: block;
+    duokan-text-indent: 0;
+    font-family:"kt";
+    font-size: 1em;
+    font-weight: 200;
+    line-height: 150%;
+    text-align: justify;
+    text-indent: 0;
+    /*margin: 3em 0 1em 1em*/
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    margin-top: 4em;
+    margin-bottom: 2em;
+    }
+    
+.poemi {
+    display: block;
+    font-size: 1em;
+    line-height: 150%;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0;
+    margin-top: 2em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+    
+.poemi1 {
+    display: block;
+    font-family:"kt";
+    font-size: 1em;    
+    font-weight: bold;
+    line-height: 150%;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0.83em 0
+    }
+    
+.poetry {
+    display: block;
+    font-family:"kt";
+    font-size: 1em;
+    line-height: 150%;
+    text-align: justify;
+    text-indent: 0;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    margin-top: 4em;
+    margin-bottom: 2em;
+}
+    
+.pz {
+    color: #000;
+    color: green;
+    font-family:"kt";
+    font-size: 0.75em;
+    text-shadow: none;
+    vertical-align: 0.1em
+    }
+    
+.speci {
+    -webkit-margin-after: 0.2em;
+    -webkit-margin-before: 0.2em;
+    -webkit-margin-end: 0.8em;
+    -webkit-margin-start: 1.5em;
+    -webkit-writing-mode: vertical-rl;
+    background: #fff no-repeat bottom right;
+    background-size: 55% auto;
+    display: block;
+    font-size: 1em;
+    line-height: 1.4;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    writing-mode: vertical-rl;
+    margin: 0 5pt
+    }
+    
+.sub {
+    display: block;
+    font-family: "st";
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 150%;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 1em 0
+    }

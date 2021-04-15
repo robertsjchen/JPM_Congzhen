@@ -1,0 +1,24 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "st";
+    src: local("Song T"), local("SongTi"), local("Songti"), local("正文"), local("宋体"), local("Songti"), local("Songti SC"), local("Songti TC"), local("STSongti"), local("STSong"), local("Song S")
+    }
+@font-face {
+    font-family: "fs";
+    src: local("STZhongsong"), local("Song T"), local("Fangsong"), local("仿宋"), local("仿宋_GB18030"), local("仿宋_GB2312"), local("SongTi")
+    }
+@font-face {
+    font-family: "ke";
+    src: local("Typeland KhangXi Dict"), local("WenYue GuDianMingChaoTi (Non-Commercial Use) W5"), local("STZhongsong"), local("HanaMinB")
+    }
+@font-face {
+    font-family: "kt";
+    src: local("楷体_GB18030"), local("KaiTi"), local("STKaiti"), local("STKai"), local("楷体"), local("Kaiti"), local("Kaiti SC"), local("Kaiti TC")
+    }
+@font-face {
+    font-family: "ht";
+    src: local("MYing Hei T"), local("STHeiti"), local("STHei"), local("MYing Hei S"), local("TBGothic"), local("Heiti"), local("Heiti SC"), local("Heiti TC")
+    }
