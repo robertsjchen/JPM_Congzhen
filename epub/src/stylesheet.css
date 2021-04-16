@@ -80,20 +80,15 @@ h2 {
     }
     
 .calibre7 {
-    -webkit-margin-after: 0.2em;
-    -webkit-margin-before: 0.2em;
-    -webkit-margin-end: 0.8em;
-    -webkit-margin-start: 1.5em;
-    -webkit-writing-mode: vertical-rl;
     display: block;
     font-size: 1em;
     line-height: 1.4;
     padding-left: 0;
     padding-right: 0;
     text-align: justify;
-    writing-mode: vertical-rl;
     margin: 0 5pt
     }
+    
 .calibre8 {
     display: block;
     font-size: 1.41667em;
@@ -108,9 +103,11 @@ h2 {
     margin-right: 0;
     margin-top: 1em
     }
+    
 .calibre10 {
     display: list-item
     }
+    
 .duokan-image-single {
     clear: both;
     display: block;
@@ -118,9 +115,12 @@ h2 {
     line-height: 1.4;
     text-align: center;
     text-indent: 0;
-    width: 100%;
-    margin: 0 0 0.5em 0.5em
+    height: 100%;
+    margin: 0;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
     }
+    
 .font {
     height: auto;
     vertical-align: bottom;
@@ -128,12 +128,14 @@ h2 {
     padding: 0;
     margin: 0 0 0 0.4em
     }
+    
 .h3a {
     font-size: 1em;
     font-style: normal;
     font-weight: lighter;
     line-height: 1.4
     }
+    
 .h3b {
     display: block;
     font-size: 1.41667em;
@@ -142,6 +144,7 @@ h2 {
     text-align: center;
     margin: 1em 0.2em 2em
     }
+    
 .kuo {
     -webkit-writing-mode: horizontal-tb;
     font-size: 1em;
@@ -150,6 +153,7 @@ h2 {
     text-indent: 0;
     writing-mode: horizontal-tb
     }
+    
 .line {
     color: gray;
     display: block;
@@ -207,38 +211,39 @@ h2 {
     }
     
 .ovaltxt {
-    color: #6A3550;
+    /*color: #6A3550;*/
     display: block;
-    font-family: "MYing Hei T", san-serif;
-    font-size: 0.75em;
-    line-height: 150%;
-    padding-left: 15px;
-    padding-right: 15px;
+    /*font-family: "MYing Hei T", san-serif;*/
+    font-size: 0.90em;
+    /*line-height: 150%;*/
+    /*padding-top: 15px;*/
+    /*padding-bottom: 15px;*/
     text-align: justify;
     text-indent: 2em;
-    margin: 1em 0
+    margin: 0;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
     }
     
 .poem {
     display: block;
-    duokan-text-indent: 0;
     font-family:"kt";
     font-size: 1em;
-    font-weight: 200;
-    line-height: 150%;
+    /*font-weight: 200;*/
+    /*line-height: 150%;*/
     text-align: justify;
     text-indent: 0;
     /*margin: 3em 0 1em 1em*/
     margin-left: 0.5em;
     margin-right: 0.5em;
     margin-top: 4em;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
     }
     
 .poemi {
     display: block;
     font-size: 1em;
-    line-height: 150%;
+    /*line-height: 150%;*/
     text-align: justify;
     text-indent: 0;
     margin: 0;
@@ -251,8 +256,8 @@ h2 {
     display: block;
     font-family:"kt";
     font-size: 1em;    
-    font-weight: bold;
-    line-height: 150%;
+    /*font-weight: bold;*/
+    /*line-height: 150%;*/
     text-align: justify;
     text-indent: 0;
     margin: 0.83em 0
@@ -262,13 +267,13 @@ h2 {
     display: block;
     font-family:"kt";
     font-size: 1em;
-    line-height: 150%;
+    /*line-height: 150%;*/
     text-align: justify;
     text-indent: 0;
     margin-left: 0.5em;
     margin-right: 0.5em;
     margin-top: 4em;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
 }
     
 .pz {
