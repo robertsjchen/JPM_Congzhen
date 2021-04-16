@@ -167,7 +167,7 @@ h2 {
     }
     
 .ord {
-    font-family: "st";
+    /*font-family: "st";*/
     background-color: #000;
     color: #fff;
     font-weight: 900;
@@ -179,7 +179,7 @@ h2 {
     }
     
 .ords {
-    font-family: "st";
+    /*font-family: "st";*/
     background-color: #fff;
     color: #000;
     font-weight: 900;
@@ -279,8 +279,8 @@ h2 {
 .pz {
     color: green;
     font-family:"kt";
-    font-size: 0.75em;
-    vertical-align: 0.1em
+    font-size: 0.85em;
+    /*vertical-align: 0.1em*/
     }
     
 .speci {
