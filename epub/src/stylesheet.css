@@ -167,7 +167,7 @@ h2 {
     }
     
 .ord {
-    /*font-family: "st";*/
+    font-family:"kt";
     background-color: #000;
     color: #fff;
     font-weight: 900;
@@ -179,7 +179,7 @@ h2 {
     }
     
 .ords {
-    /*font-family: "st";*/
+    font-family:"kt";
     background-color: #fff;
     color: #000;
     font-weight: 900;
@@ -187,6 +187,13 @@ h2 {
     width: 1em;
     padding: 0;
     margin: 0
+    }
+    
+.pz {
+    color: green;
+    font-family:"kt";
+    font-size: 0.85em;
+    /*vertical-align: 0.1em*/
     }
     
 .oval {
@@ -275,13 +282,6 @@ h2 {
     margin-top: 4em;
     margin-bottom: 1em;
 }
-    
-.pz {
-    color: green;
-    font-family:"kt";
-    font-size: 0.85em;
-    /*vertical-align: 0.1em*/
-    }
     
 .speci {
     -webkit-margin-after: 0.2em;
