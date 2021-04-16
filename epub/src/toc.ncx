@@ -23,7 +23,7 @@
         <navLabel>
           <text>前言</text>
         </navLabel>
-        <content src="text/part_00.html"/>
+        <content src="text/part00.html"/>
         <navPoint class="chapter" id="num_002" playOrder="0003">
           <navLabel>
             <text>新刻繡像批評金瓶梅前言</text>
@@ -42,7 +42,7 @@
         <navLabel>
           <text>新刻繡像批評金瓶梅卷之一</text>
         </navLabel>
-        <content src="text/part_01.html"/>
+        <content src="text/part01.html"/>
         <navPoint class="chapter" id="num_005" playOrder="002">
           <navLabel>
             <text>第一回 西門慶熱結十弟兄 武二郎冷遇親哥嫂</text>
@@ -109,7 +109,7 @@
         <navLabel>
           <text>新刻繡像批評金瓶梅卷之二</text>
         </navLabel>
-        <content src="text/part_02.html"/>
+        <content src="text/part02.html"/>
         <navPoint class="chapter" id="num_016" playOrder="013">
           <navLabel>
             <text>第十一回 潘金蓮激打孫雪娥 西門慶梳籠李桂姐</text>
@@ -176,7 +176,7 @@
         <navLabel>
           <text>新刻繡像批評金瓶梅卷之三</text>
         </navLabel>
-        <content src="text/part_03.html"/>
+        <content src="text/part03.html"/>
         <navPoint class="chapter" id="num_027" playOrder="024">
           <navLabel>
             <text>第二十一回 吳月娘掃雪烹茶 應伯爵替花邀酒</text>
@@ -243,7 +243,7 @@
         <navLabel>
           <text>新刻繡像批評金瓶梅卷之四</text>
         </navLabel>
-        <content src="text/part_04.html"/>
+        <content src="text/part04.html"/>
         <navPoint class="chapter" id="num_038" playOrder="035">
           <navLabel>
             <text>第三十一回 琴童兒藏壺構釁 西門慶開宴為歡</text>
@@ -310,7 +310,7 @@
         <navLabel>
           <text>新刻繡像批評金瓶梅卷之五</text>
         </navLabel>
-        <content src="text/part_05.html"/>
+        <content src="text/part05.html"/>
         <navPoint class="chapter" id="num_049" playOrder="046">
           <navLabel>
             <text>第四十一回 兩孩兒聯姻共笑嬉 二佳人憤深同氣苦</text>
@@ -377,7 +377,7 @@
         <navLabel>
           <text>新刻繡像批評金瓶梅卷之六</text>
         </navLabel>
-        <content src="text/part_06.html"/>
+        <content src="text/part06.html"/>
         <navPoint class="chapter" id="num_060" playOrder="057">
           <navLabel>
             <text>第五十一回 打貓兒金蓮品玉 鬥葉子敬濟輸金</text>
@@ -444,7 +444,7 @@
         <navLabel>
           <text>新刻繡像批評金瓶梅卷之七</text>
         </navLabel>
-        <content src="text/part_07.html"/>
+        <content src="text/part07.html"/>
         <navPoint class="chapter" id="num_071" playOrder="068">
           <navLabel>
             <text>第六十一回 西門慶乘醉燒陰戶 李瓶兒帶病宴重陽</text>
@@ -511,7 +511,7 @@
         <navLabel>
           <text>新刻繡像批評金瓶梅卷之八</text>
         </navLabel>
-        <content src="text/part_08.html"/>
+        <content src="text/part08.html"/>
         <navPoint class="chapter" id="num_082" playOrder="079">
           <navLabel>
             <text>第七十一回 李瓶兒何家托夢 提刑官引奏朝儀</text>
@@ -578,7 +578,7 @@
         <navLabel>
           <text>新刻繡像批評金瓶梅卷之九</text>
         </navLabel>
-        <content src="text/part_09.html"/>
+        <content src="text/part09.html"/>
         <navPoint class="chapter" id="num_093" playOrder="090">
           <navLabel>
             <text>第八十一回 韓道國拐財遠遁 湯來保欺主背恩</text>
@@ -645,7 +645,7 @@
         <navLabel>
           <text>新刻繡像批評金瓶梅卷之十</text>
         </navLabel>
-        <content src="text/part_10.html"/>
+        <content src="text/part10.html"/>
         <navPoint class="chapter" id="num_104" playOrder="101">
           <navLabel>
             <text>第九十一回 孟玉樓愛嫁李衙內 李衙內怒打玉簪兒</text>
@@ -712,7 +712,7 @@
         <navLabel>
           <text>附錄</text>
         </navLabel>
-        <content src="text/part_11.html"/>
+        <content src="text/part11.html"/>
         <navPoint class="chapter" id="num_115" playOrder="112">
           <navLabel>
             <text>製作說明</text>

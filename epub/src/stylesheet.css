@@ -1,19 +1,40 @@
-
-
-.calibre {
-    -webkit-margin-after: 0.2em;
-    -webkit-margin-before: 0.2em;
-    -webkit-margin-end: 0.8em;
-    -webkit-margin-start: 1.5em;
+html {
+    writing-mode: vertical-rl;
     -webkit-writing-mode: vertical-rl;
-    
+    -epub-writing-mode: vertical-rl;
+}
+
+h1 {
+    display: block;
+    margin-top: 4em;
+    font-size: 130%;
+    font-weight: bold;
+}
+
+.h1_huge {
+    display: block;
+    text-align: center;
+    font-size: 160%;
+    font-weight: bold;
+    margin: 0;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+h2 {
+    display: block;
+    margin-top: 6em;
+    font-size: 120%;
+    font-weight: bold;
+}
+
+.calibre {    
     display: block;
     font-size: 1em;
     padding-left: 0;
     padding-right: 0;
     text-align: justify;
-    writing-mode: vertical-rl;
-    margin: 0 5pt
+    margin: 0
     }
     
 .calibre1 {
