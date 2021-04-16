@@ -16,6 +16,7 @@
   <manifest>
     <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
     <item href="images/flower.jpg" id="flower" media-type="image/jpeg"/>
+    <item href="images/version_relation.png" id="version_relation" media-type="image/jpeg"/>
     <item href="page_styles.css" id="page_css" media-type="text/css"/>
     <item href="stylesheet.css" id="css" media-type="text/css"/>
     <item href="text/mulu.html" id="id_mulu" media-type="application/xhtml+xml"/>

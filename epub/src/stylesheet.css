@@ -6,16 +6,18 @@ html {
 
 h1 {
     display: block;
-    margin-top: 4em;
     font-size: 130%;
-    font-weight: bold;
+    /*font-weight: bold;*/
+    margin-top: 4em;
+    margin-left: 2em;
+    margin-right: 1em;
 }
 
 .h1_huge {
     display: block;
     text-align: center;
     font-size: 160%;
-    font-weight: bold;
+    /*font-weight: bold;*/
     margin: 0;
     margin-left: 0.5em;
     margin-right: 0.5em;
@@ -25,7 +27,7 @@ h2 {
     display: block;
     margin-top: 6em;
     font-size: 120%;
-    font-weight: bold;
+    /*font-weight: bold;*/
 }
 
 .calibre {    
