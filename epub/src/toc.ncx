@@ -69,7 +69,7 @@
         </navPoint>
         <navPoint class="chapter" id="num_009" playOrder="006">
           <navLabel>
-            <text>第五回 捉奸情鄆哥定計 飲鴆藥武大遭殃</text>
+            <text>第五回 捉奸情鄆哥定計 飲酖藥武大遭殃</text>
           </navLabel>
           <content src="text/chapter005.html"/>
         </navPoint>
@@ -87,7 +87,7 @@
         </navPoint>
         <navPoint class="chapter" id="num_012" playOrder="009">
           <navLabel>
-            <text>第八回 盼情郎佳人佔鬼卦 燒夫靈和尚聽淫聲</text>
+            <text>第八回 盼情郎佳人占鬼卦 燒夫靈和尚聽淫聲</text>
           </navLabel>
           <content src="text/chapter008.html"/>
         </navPoint>
