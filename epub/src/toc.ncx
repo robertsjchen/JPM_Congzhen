@@ -166,7 +166,7 @@
         </navPoint>
         <navPoint class="chapter" id="num_025" playOrder="022">
           <navLabel>
-            <text>第二十回 傻幫閒趨奉鬧華筵 痴子弟爭鋒毀花院</text>
+            <text>第二十回 傻幫閒趨奉鬧華筵 癡子弟爭鋒毀花院</text>
           </navLabel>
           <content src="text/chapter020.html"/>
         </navPoint>
@@ -246,7 +246,7 @@
         <content src="text/part04.html"/>
         <navPoint class="chapter" id="num_038" playOrder="035">
           <navLabel>
-            <text>第三十一回 琴童兒藏壺構釁 西門慶開宴為歡</text>
+            <text>第三十一回 琴童兒藏壺搆釁 西門慶開宴為歡</text>
           </navLabel>
           <content src="text/chapter031.html"/>
         </navPoint>
@@ -270,7 +270,7 @@
         </navPoint>
         <navPoint class="chapter" id="num_042" playOrder="039">
           <navLabel>
-            <text>第三十五回 西門慶為男寵報讐 書童兒作女粧媚客</text>
+            <text>第三十五回 西門慶為男寵報仇 書童兒作女粧媚客</text>
           </navLabel>
           <content src="text/chapter035.html"/>
         </navPoint>
