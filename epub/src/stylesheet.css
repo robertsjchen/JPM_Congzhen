@@ -70,9 +70,10 @@ h3 {
     }
     
 .calibre6 {
+    /*zhengwen*/
     display: block;
     font-size: 1em;
-    line-height: 150%;
+    line-height: 140%;
     text-indent: 2em;
     /*margin: 1em 0*/
     margin: 0;
@@ -105,14 +106,14 @@ h3 {
     display: list-item
     }
     
-.duokan-image-single {
+.illustration_image {
     clear: both;
     display: block;
     height: auto;
+    height: 100%;
     line-height: 1.4;
     text-align: center;
     text-indent: 0;
-    height: 100%;
     margin: 0;
     margin-left: 0.5em;
     margin-right: 0.5em;
@@ -127,7 +128,6 @@ h3 {
     writing-mode: horizontal-tb
     }
     
-
 .ord {
     font-family:"kt";
     background-color: #000;
@@ -156,27 +156,6 @@ h3 {
     font-family:"kt";
     font-size: 0.85em;
     /*vertical-align: 0.1em*/
-    }
-    
-.oval {
-    background: repeat;
-    display: block;
-    line-height: 1.4;
-    border: #FE1602 solid 1px;
-    padding: 5px
-    }
-    
-.ovaltitle {
-    color: #6A3510;
-    display: block;
-    font-family: "ht";
-    font-size: 1.125em;
-    font-weight: 900;
-    line-height: 1.2;
-    padding-bottom: 14px;
-    padding-top: 15px;
-    text-align: center;
-    margin: 0.83em 0
     }
     
 .ovaltxt {
@@ -208,30 +187,7 @@ h3 {
     margin-top: 4em;
     margin-bottom: 1em;
     }
-    
-.poemi {
-    display: block;
-    font-size: 1em;
-    /*line-height: 150%;*/
-    text-align: justify;
-    text-indent: 0;
-    margin: 0;
-    margin-top: 2em;
-    margin-left: 0.5em;
-    margin-right: 0.5em;
-}
-    
-.poemi1 {
-    display: block;
-    font-family:"kt";
-    font-size: 1em;    
-    /*font-weight: bold;*/
-    /*line-height: 150%;*/
-    text-align: justify;
-    text-indent: 0;
-    margin: 0.83em 0
-    }
-    
+       
 .poetry {
     display: block;
     font-family:"kt";
@@ -302,24 +258,6 @@ h3 {
     margin-right: 0em;
     margin-bottom: 1em;
 }
-
-.speci {
-    -webkit-margin-after: 0.2em;
-    -webkit-margin-before: 0.2em;
-    -webkit-margin-end: 0.8em;
-    -webkit-margin-start: 1.5em;
-    -webkit-writing-mode: vertical-rl;
-    background: #fff no-repeat bottom right;
-    background-size: 55% auto;
-    display: block;
-    font-size: 1em;
-    line-height: 1.4;
-    padding-left: 0;
-    padding-right: 0;
-    text-align: justify;
-    writing-mode: vertical-rl;
-    margin: 0 5pt
-    }
     
  .content_kt {
     font-family:"kt";
