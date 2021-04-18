@@ -135,6 +135,10 @@
     <item href="text/chapter099.html" id="id_chapter099" media-type="application/xhtml+xml"/>
     <item href="text/chapter100.html" id="id_chapter100" media-type="application/xhtml+xml"/>
     <item href="text/post001.html" id="id_post001" media-type="application/xhtml+xml"/>
+    <item href="text/post002.html" id="id_post002" media-type="application/xhtml+xml"/>
+    <item href="text/post003.html" id="id_post003" media-type="application/xhtml+xml"/>
+    <item href="text/post004.html" id="id_post004" media-type="application/xhtml+xml"/>
+    <item href="text/post005.html" id="id_post005" media-type="application/xhtml+xml"/>
     <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
   </manifest>
@@ -256,6 +260,10 @@
     <itemref idref="id_chapter100"/>
     <itemref idref="id_part11"/>
     <itemref idref="id_post001"/>
+    <itemref idref="id_post002"/>
+    <itemref idref="id_post003"/>
+    <itemref idref="id_post004"/>
+    <itemref idref="id_post005"/>
   </spine>
   <guide>
     <reference href="text/mulu.html" title="目錄" type="toc"/>

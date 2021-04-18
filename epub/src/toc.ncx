@@ -715,9 +715,33 @@
         <content src="text/part11.html"/>
         <navPoint class="chapter" id="num_115" playOrder="112">
           <navLabel>
-            <text>製作說明</text>
+            <text>欣欣子《金瓶梅詞話序》</text>
           </navLabel>
           <content src="text/post001.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_116" playOrder="113">
+          <navLabel>
+            <text>廿公《跋》</text>
+          </navLabel>
+          <content src="text/post002.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_117" playOrder="114">
+          <navLabel>
+            <text>新刻金瓶梅詞話·詞曰·四貪詞</text>
+          </navLabel>
+          <content src="text/post003.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_118" playOrder="115">
+          <navLabel>
+            <text>謝肇淛《金瓶梅》跋</text>
+          </navLabel>
+          <content src="text/post004.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_116" playOrder="116">
+          <navLabel>
+            <text>製作說明</text>
+          </navLabel>
+          <content src="text/post005.html"/>
         </navPoint>
     </navPoint>
     

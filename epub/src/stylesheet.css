@@ -30,6 +30,28 @@ h2 {
     /*font-weight: bold;*/
 }
 
+h3 {
+    display: block;
+    margin: 0;
+    margin-top: 6em;
+    margin-left: 0em;
+    font-size: 120%;
+    /*font-weight: bold;*/
+}
+
+.sub {
+    display: block;
+    font-size: 1em;
+    /*font-weight: bold;*/
+    font-size: 120%;
+    line-height: 150%;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 0;
+    margin-left: 1em;
+    margin-right: 1.5em;
+    }
+    
 .calibre {    
     display: block;
     font-size: 1em;
@@ -41,27 +63,6 @@ h2 {
     
 .calibre1 {
     display: block
-    }
-    
-.calibre2 {    
-    display: block;
-    font-size: 1em;
-    line-height: 150%;
-    text-indent: 0;
-    margin: 1em 0
-    }
-    
-.calibre3 {
-    height: auto;
-    line-height: 1.4;
-    width: 100%
-    }
-    
-.calibre4 {
-    display: block;
-    font-size: 1em;
-    font-weight: lighter;
-    margin: 1em 0 0
     }
     
 .calibre5 {
@@ -79,23 +80,19 @@ h2 {
     margin-right: 0.5em;
     }
     
-.calibre7 {
-    display: block;
-    font-size: 1em;
-    line-height: 1.4;
-    padding-left: 0;
-    padding-right: 0;
-    text-align: justify;
-    margin: 0 5pt
-    }
-    
 .calibre8 {
     display: block;
-    font-size: 1.41667em;
-    font-weight: bold;
-    line-height: 1.2;
-    margin: 0.83em 0
+    font-family:"kt";
+    font-size: 1em;
+    /*line-height: 150%;*/
+    text-align: justify;
+    text-indent: 0;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    margin-top: 2em;
+    margin-bottom: 1em;
     }
+    
 .calibre9 {
     display: block;
     list-style-type: disc;
@@ -121,30 +118,6 @@ h2 {
     margin-right: 0.5em;
     }
     
-.font {
-    height: auto;
-    vertical-align: bottom;
-    width: 1em;
-    padding: 0;
-    margin: 0 0 0 0.4em
-    }
-    
-.h3a {
-    font-size: 1em;
-    font-style: normal;
-    font-weight: lighter;
-    line-height: 1.4
-    }
-    
-.h3b {
-    display: block;
-    font-size: 1.41667em;
-    font-weight: lighter;
-    line-height: 1.4;
-    text-align: center;
-    margin: 1em 0.2em 2em
-    }
-    
 .kuo {
     -webkit-writing-mode: horizontal-tb;
     font-size: 1em;
@@ -154,18 +127,7 @@ h2 {
     writing-mode: horizontal-tb
     }
     
-.line {
-    color: gray;
-    display: block;
-    height: 2px;
-    line-height: 1.4;
-    border-top: #A2906A dotted 1px;
-    border-right: #A2906A dotted 0;
-    border-bottom: #A2906A dotted 0;
-    border-left: #A2906A dotted 0;
-    margin: 0.5em auto
-    }
-    
+
 .ord {
     font-family:"kt";
     background-color: #000;
@@ -359,17 +321,10 @@ h2 {
     margin: 0 5pt
     }
     
-.sub {
-    display: block;
-    font-family: "st";
-    font-size: 1em;
-    font-weight: bold;
-    line-height: 150%;
-    text-align: justify;
-    text-indent: 2em;
-    margin: 1em 0
-    }
-
+ .content_kt {
+    font-family:"kt";
+}
+   
 .flower {
     clear: both;
     display: block;
