@@ -99,7 +99,7 @@
         </navPoint>
         <navPoint class="chapter" id="num_014" playOrder="011">
           <navLabel>
-            <text>第十回 義士充配孟州道 妻妾玩賞芙蓉亭</text>
+            <text>第十回 義士充配孟州道 妻妾翫賞芙蓉亭</text>
           </navLabel>
           <content src="text/chapter010.html"/>
         </navPoint>
@@ -136,7 +136,7 @@
         </navPoint>
         <navPoint class="chapter" id="num_020" playOrder="017">
           <navLabel>
-            <text>第十五回 佳人笑賞玩燈樓 狎客幫嫖麗春院</text>
+            <text>第十五回 佳人笑賞翫燈樓 狎客幫嫖麗春院</text>
           </navLabel>
           <content src="text/chapter015.html"/>
         </navPoint>
@@ -666,7 +666,7 @@
         </navPoint>
         <navPoint class="chapter" id="num_107" playOrder="104">
           <navLabel>
-            <text>第九十四回 大酒樓劉二撒潑 灑家店雪娥為娼</text>
+            <text>第九十四回 大酒樓劉二撒潑 洒家店雪娥為娼</text>
           </navLabel>
           <content src="text/chapter094.html"/>
         </navPoint>
@@ -678,7 +678,7 @@
         </navPoint>
         <navPoint class="chapter" id="num_109" playOrder="106">
           <navLabel>
-            <text>第九十六回 春梅姐遊舊家池館 楊光彥作當面豺狼</text>
+            <text>第九十六回 春梅姐遊舊家池舘 楊光彥作當面豺狼</text>
           </navLabel>
           <content src="text/chapter096.html"/>
         </navPoint>
@@ -690,7 +690,7 @@
         </navPoint>
         <navPoint class="chapter" id="num_111" playOrder="108">
           <navLabel>
-            <text>第九十八回 陳敬濟臨清逢舊識 韓愛姐翠館遇情郎</text>
+            <text>第九十八回 陳敬濟臨清逢舊識 韓愛姐翠舘遇情郎</text>
           </navLabel>
           <content src="text/chapter098.html"/>
         </navPoint>
