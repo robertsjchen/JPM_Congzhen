@@ -81,19 +81,6 @@ h3 {
     margin-right: 0.5em;
     }
     
-.calibre8 {
-    display: block;
-    font-family:"kt";
-    font-size: 1em;
-    /*line-height: 150%;*/
-    text-align: justify;
-    text-indent: 0;
-    margin-left: 0.5em;
-    margin-right: 0.5em;
-    margin-top: 2em;
-    margin-bottom: 1em;
-    }
-    
 .calibre9 {
     display: block;
     list-style-type: disc;
@@ -204,6 +191,19 @@ h3 {
     margin-bottom: 1em;    
 }
 
+.poetry_no_intent {
+    display: block;
+    font-family:"kt";
+    font-size: 1em;
+    /*line-height: 150%;*/
+    text-align: justify;
+    text-indent: 0;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    }
+    
 .gongwen {
     display: block;
     font-size: 1em;
