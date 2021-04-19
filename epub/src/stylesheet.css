@@ -119,15 +119,6 @@ h3 {
     margin-right: 0.5em;
     }
     
-.kuo {
-    -webkit-writing-mode: horizontal-tb;
-    font-size: 1em;
-    line-height: 1.2;
-    text-align: left;
-    text-indent: 0;
-    writing-mode: horizontal-tb
-    }
-    
 .ord {
     font-family:"kt";
     background-color: #000;
