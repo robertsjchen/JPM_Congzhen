@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <dc:title>《新刻繡像批評金瓶梅》（直排）</dc:title>
+    <dc:title>《新刻繡像批評金瓶梅》</dc:title>
     <dc:language>zh-TW</dc:language>
     <meta name="calibre:timestamp" content="2019-02-12T04:29:44.218810+00:00"/>
     <dc:contributor opf:role="bkp">calibre (3.37.0) [https://calibre-ebook.com]</dc:contributor>
@@ -11,7 +11,6 @@
     <dc:identifier opf:scheme="MOBI-ASIN">ae088bbb-49ff-4d51-9906-cafb73487175</dc:identifier>
     <dc:identifier id="uuid_id" opf:scheme="uuid">18777ec1-5081-461b-a51a-ec9a135e0aa2</dc:identifier>
     <meta name="cover" content="cover"/>
-    <meta content="vertical-rl" name="primary-writing-mode"/>
   </metadata>
   <manifest>
     <item href="images/cover.jpeg" id="cover" media-type="image/jpeg"/>
@@ -142,7 +141,7 @@
     <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
   </manifest>
-  <spine toc="ncx" page-progression-direction="rtl">
+  <spine toc="ncx">
     <itemref idref="titlepage"/>    
     <itemref idref="id_mulu"/>
     <itemref idref="id_part00"/>    
